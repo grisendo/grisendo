@@ -19,18 +19,21 @@
   <a href="https://github.com/grisendo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grisendo&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grisendo&layout=compact&langs_count=7&theme=gradient"/>
+  </a>
 </div>
 <br/><br/>  
   
 ## ⚡ Technologies I love and I use/used
   
 <div style="display: inline_block"><br>
+  <a href="https://github.com/grisendo" style="text-decoration: none;">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="symfony" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
-</a> <a href="https://postman.com" target="_blank" rel="noreferrer">                                              
+</a>                                          
 </div>
   
   <h4>Version Control</h4>  
