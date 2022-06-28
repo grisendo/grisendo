@@ -2,7 +2,7 @@
 
 😄 I'm a Computer Engineer and Full-stack developer.
 
-🌱 I'm currently learning DDD, Hexagonal architecture, CQRS...
+🌱 I'm currently learning more about DDD, Hexagonal architecture, CQRS, microservices...
 
 🔭 I’m currently looking for a new job position.
 
