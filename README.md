@@ -4,8 +4,6 @@
 
 🌱 I'm currently learning more about DDD, Hexagonal architecture, CQRS, microservices...
 
-🔭 I’m currently looking for a new job position.
-
 💬 Feel free to contact me. 
 📫 grisendo@gmail.com
 
