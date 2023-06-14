@@ -7,6 +7,8 @@
 💬 Feel free to contact me. 
 📫 grisendo@gmail.com
 
+<br/><br/>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grisendo" alt="grisendo" /></a> 
 
 <br/><br/>
